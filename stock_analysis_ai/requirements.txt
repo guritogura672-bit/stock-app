@@ -2,7 +2,7 @@ yfinance
 pandas
 numpy
 streamlit
-streamlit
+streamlit-autorefresh
 plotly
 rich
 pyyaml
